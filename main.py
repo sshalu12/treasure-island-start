@@ -1,3 +1,7 @@
+# Treasure Island
+# you have to find out the treasure with some right guess
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
